@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/hellokvn/go-grpc-api-gateway/pkg/auth/pb"
+	"github.com/agungnugroho24/go-grpc-api-gateway/pkg/auth/pb"
 )
 
 type LoginRequestBody struct {
