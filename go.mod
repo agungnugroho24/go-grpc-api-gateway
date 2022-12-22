@@ -1,4 +1,4 @@
-module github.com/hellokvn/go-grpc-api-gateway
+module github.com/agungnugroho24/go-grpc-api-gateway
 
 go 1.18
 
